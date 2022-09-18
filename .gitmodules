@@ -7,3 +7,6 @@
 [submodule "layers/meta-billyghost"]
 	path = layers/meta-billyghost
 	url = git@github.com:ProjectBillyGhost/meta-billyghost.git
+[submodule "layers/meta-atmel"]
+	path = layers/meta-atmel
+	url = git@github.com:linux4sam/meta-atmel.git
